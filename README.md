@@ -2,7 +2,7 @@
 
 ## What is this?
 
-A mMinimalistic pastebin for sharing text via hash rather than a link to a website storing your data.  
+A minimalistic pastebin for sharing text via hash rather than a link to a website storing your data.  
 Nothing is saved inside a database.
 
 ## Developing
